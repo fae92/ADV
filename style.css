@@ -1,0 +1,18 @@
+h1 {
+	color: blue;
+	font-family:Georgia;
+}
+
+img {
+	display: none;
+}
+
+td {
+	width : 250px;
+	height : 250px;
+	background-color: darkred;
+}
+
+td:hover {
+	background-color: red;
+}
